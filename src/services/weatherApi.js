@@ -1,7 +1,5 @@
 import axios from 'axios';
 
-// TEMPORARY: Hardcoded API key for testing
-// ⚠️ WARNING: Replace with .env method before deploying!
 const API_KEY = 'efa467e0bfa50a27819f3914318fea49';
 
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
